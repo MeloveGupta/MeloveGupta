@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AspectMG
+- 👋 Hi, I’m @MeloveGupta
 - 👀 I’m interested in Programming and Coding
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on AI Assistant Project
