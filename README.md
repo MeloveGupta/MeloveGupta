@@ -1,4 +1,4 @@
-# Hi there, I’m Melove Gupta!
+# Hi, I’m Melove Gupta!
 
 I’m a Computer Science student with a passion for crafting interactive Web Experiences and Intelligent Tools. I thrive on turning Ideas into Reality, whether it’s building a Voice‑Controlled AI Assistant that listens and responds to your commands or developing engaging browser games from scratch.
 
