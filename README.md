@@ -1,12 +1,26 @@
-# Hi, I’m Melove Gupta!
+<h1 align="center">Hi 👋, I'm Melove Gupta</h1>
+<h3 align="center">Frontend Developer • Web3 Explorer • Problem Solver</h3>
 
-I’m a Computer Science student with a passion for crafting interactive Web Experiences and Intelligent Tools. I thrive on turning Ideas into Reality, whether it’s building a Voice‑Controlled AI Assistant that listens and responds to your commands or developing engaging browser games from scratch.
+- 🔭 I’m currently working on **improving my skills in full-stack development through hands-on projects.**
 
-My toolbox includes HTML, CSS, JavaScript and Python technologies I use every day to design clean, responsive interfaces and robust functionality. Among my favorite creations are an AI Voice Controlled Assistant that automates tasks and fetches information on demand, two mobile games called ZerOX and CrossNKnots coded entirely in vanilla web technologies and published on the Google PlayStore, AI Voice Calling Agent which uses Flask and Twilio to place real-time calls and deliver custom messages, and pixel‑perfect front‑end clones of popular homepages like Coca‑Cola, Apple’s iPhone 16 and Google Search.
+- 🌱 I’m currently learning **advanced JavaScript concepts, modern frontend architectures, and strengthening my foundation in Python.**
 
-When I’m not coding, I remind myself “Coding is Fun! Sometimes...” I’m always learning new techniques, experimenting with frameworks, and pushing my skills to the next level. Feel free to explore my work or reach out.
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-<!---
-MeloveGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 All of my projects are available at [https://github.com/MeloveGupta?tab=repositories](https://github.com/MeloveGupta?tab=repositories)
+
+- 💬 Ask me about **JavaScript, Python, frontend development, and building clean, functional web apps.**
+
+- 📫 How to reach me **melovegupta0406@gmail.com**
+
+- ⚡ Fun fact **Coding is Fun... Sometimes...**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/melove gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melove gupta" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melovegupta&show_icons=true&locale=en" alt="melovegupta" /></p>
