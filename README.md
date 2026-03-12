@@ -1,14 +1,3 @@
-<!-- header -->
-<div align="center">
- 
-```
-  _   _ _____ _    _      ___   
- | | | | ____| |  | |    / _ \  
- | |_| |  _| | |  | |   | | | | 
- |  _  | |___| |__| |___| |_| | 
- |_| |_|_____|_____|_____\___/  
-```
- 
 ### Hey, I'm Melove 👋
  
 *student. open source contributor. person who reads changelogs for fun.*
