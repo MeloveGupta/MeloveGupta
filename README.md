@@ -1,28 +1,118 @@
-# Hi 👋, I'm Melove Gupta
+<!-- header -->
+<div align="center">
+ 
+```
+  _   _ _____ _    _      ___   
+ | | | | ____| |  | |    / _ \  
+ | |_| |  _| | |  | |   | | | | 
+ |  _  | |___| |__| |___| |_| | 
+ |_| |_|_____|_____|_____\___/  
+```
+ 
+### Hey, I'm Melove 👋
+ 
+*student. open source contributor. person who reads changelogs for fun.*
+ 
+[![Visits](https://komarev.com/ghpvc/?username=MeloveGuptaE&color=8b949e&style=flat-square&label=visitors)](https://github.com/MeloveGupta)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/MeloveGupta?style=flat-square&color=8b949e&label=followers)](https://github.com/MeloveGupta)
+ 
+</div>
+ 
+---
+ 
+I got into open source the way most people do, I hit a bug, looked at the source, thought *"I can probably fix this"*, and then spent three hours understanding why I was completely wrong about that. Eventually I did fix it. Now I can't stop.
 
-### Student Developer Focused on Web, JavaScript, and Python
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MeloveGupta" alt="MeloveGupta" /></a> </p>
-
-- 🔭 I'm currently working on **improving my skills in full-stack development through hands-on projects.**
-
-- 🌱 I'm currently learning **advanced JavaScript concepts, modern frontend architectures, and strengthening my foundation in Python.**
-
-- 👯 I'm looking to collaborate on **Open Source Projects**
-
-- 💬 Ask me about **JavaScript, Python, frontend development, and building clean, functional web apps.**
-
-- 📫 How to reach me **melovegupta0406@gmail.com**
-
-- ⚡ Fun fact **Coding is Fun... Sometimes...**
-
-- 👨‍💻 All of my projects are available at **[https://github.com/MeloveGupta?tab=repositories](https://github.com/MeloveGupta?tab=repositories)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/MeloveGupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MeloveGupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/melovegupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melovegupta" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
+I run Ubuntu.I do have opinions about build systems...
+ 
+<br>
+ 
+## What i've been contributing to
+ 
+**🖊️ LibreOffice** &nbsp;·&nbsp; [libreoffice.org](https://www.libreoffice.org/)
+ 
+> One of the largest open-source C++ codebases on the planet. Office suite, document rendering, platform compatibility, the works. The codebase is old enough to have layers of history baked into it. Contributing here means reading a lot of code you didn't write and being genuinely careful about what you touch.
+ 
+<br>
+ 
+**💬 Gemini CLI** &nbsp;·&nbsp; [github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+ 
+> CLI tooling for Gemini models. This is where I get to think about developer UX — what makes a command-line tool feel *good* to use, how to handle edge cases gracefully, how to write output that's actually readable. Fast-moving project, which keeps things interesting.
+ 
+<br>
+ 
+**🐘 PostgreSQL** &nbsp;·&nbsp; [postgresql.org](https://www.postgresql.org/)
+ 
+> Written in C. Standards are extremely high. Code review is not gentle. Contributing to Postgres means learning to think about correctness, memory, and performance all at once — you don't get to pick two. It's humbling in the best way.
+ 
+<br>
+ 
+---
+ 
+## Stuff i use
+ 
+```bash
+$ cat ~/.toolbox
+```
+ 
+```
+languages   →  C, C++, Python, SQL, Bash
+build       →  Make, CMake, Meson, autoconf
+debug       →  GDB, Valgrind, strace, perf
+editor      →  Neovim (yes, really)
+OS          →  Ubuntu - and nothing else by choice
+workflow    →  terminal-first, git cli
+```
+ 
+<br>
+ 
+---
+ 
+## Github, by the numbers
+ 
+<div align="center">
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=MeloveGupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeloveGupta&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="165" />
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://streak-stats.demolab.com?user=MeloveGupta&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+ 
+</div>
+ 
+<br>
+ 
+---
+ 
+## Things i find genuinely interesting
+ 
+not a formal list - just the stuff I actually think about
+ 
+- why some CLIs feel good to use and most don't
+- how databases decide what order to do things in
+- the archaeology of old codebases: why is this here, who wrote it, why did they make that call
+- build systems (in a love/hate way)
+- how open source projects handle contributor onboarding at scale
+- editor internals - rendering, syntax trees, language servers
+ 
+<br>
+ 
+---
+ 
+## If you want to talk
+ 
+I'm easy to reach and I like talking about this stuff. If you're working on something in the systems/tooling/open-source space, or you just want to swap notes on navigating a codebase you don't understand yet - reach out.
+ 
+<div align="center">
+ 
+[Email](mailto:melovegupta0406@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/melovegupta) &nbsp;
+ 
+<br>
+ 
+*always open to: code review, contributor conversations, and being told my approach is wrong with evidence*
+ 
+</div>
