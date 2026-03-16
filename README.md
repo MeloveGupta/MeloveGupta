@@ -15,7 +15,7 @@
  
 I got into open source the way most people do, I hit a bug, looked at the source, thought *"I can probably fix this"*, and then spent three hours understanding why I was completely wrong about that. Eventually I did fix it. Now I can't stop.
 
-I run Ubuntu.I do have opinions about build systems...
+I run Ubuntu. I do have opinions about build systems...
  
 <br>
  
