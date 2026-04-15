@@ -72,7 +72,7 @@ workflow    →  terminal-first, git cli
  
 ---
  
-## Things i find genuinely interesting
+## Things I find genuinely interesting
  
 not a formal list - just the stuff I actually think about
  
