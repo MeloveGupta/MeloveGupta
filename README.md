@@ -19,7 +19,7 @@ I run Ubuntu. I do have opinions about build systems...
  
 <br>
  
-## What i've been contributing to
+## What I've been contributing to
  
 **🖊️ LibreOffice** &nbsp;·&nbsp; [libreoffice.org](https://www.libreoffice.org/)
  
@@ -29,15 +29,7 @@ I run Ubuntu. I do have opinions about build systems...
  
 **💬 Gemini CLI** &nbsp;·&nbsp; [github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
  
-> CLI tooling for Gemini models. This is where I get to think about developer UX — what makes a command-line tool feel *good* to use, how to handle edge cases gracefully, how to write output that's actually readable. Fast-moving project, which keeps things interesting.
- 
-<br>
- 
-**🐘 PostgreSQL** &nbsp;·&nbsp; [postgresql.org](https://www.postgresql.org/)
- 
-> Written in C. Standards are extremely high. Code review is not gentle. Contributing to Postgres means learning to think about correctness, memory, and performance all at once — you don't get to pick two. It's humbling in the best way.
- 
-<br>
+> CLI tooling for Gemini models. This is where I get to think about developer UX, what makes a command-line tool feel *good* to use, how to handle edge cases gracefully, how to write output that's actually readable. Fast-moving project, which keeps things interesting.
  
 ---
  
