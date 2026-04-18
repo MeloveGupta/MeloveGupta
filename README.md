@@ -82,6 +82,22 @@ melove = {
 
 ---
 
+## 🐧 Open Source Contributions
+
+<div align="center">
+
+[![LibreOffice](https://img.shields.io/badge/LibreOffice-Contributor-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)](https://gerrit.libreoffice.org/q/owner:meloovegupta@gmail.com)
+
+</div>
+
+**[LibreOffice](https://www.libreoffice.org/)** - one of the world's largest open source office suites.
+
+- 🔧 **Contributions:** Bug fixes, feature development & improvements across the codebase
+- 🧩 **Components:** Writer · Calc · Impress · Draw · Base · Math · Core
+- 🔍 **All patches:** [gerrit.libreoffice.org](https://gerrit.libreoffice.org/q/owner:meloovegupta@gmail.com)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
