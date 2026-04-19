@@ -145,8 +145,8 @@ melove = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeloveGupta&repo=chain-lens-bitcoin-transaction-visualizer&theme=github_dark&hide_border=true" alt="Project 1"/>
   </a>
   &nbsp;
-  <a href="https://github.com/MeloveGupta/ai-voice-calling-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeloveGupta&repo=ai-voice-calling-agent&theme=github_dark&hide_border=true" alt="Project 2"/>
+  <a href="https://github.com/MeloveGupta/safe-pbst-transaction-builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeloveGupta&repo=safe-pbst-transaction-builder&theme=github_dark&hide_border=true" alt="Project 2"/>
   </a>
 </div>
 
