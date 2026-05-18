@@ -101,14 +101,6 @@ melove = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeloveGupta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Melove's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeloveGupta&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=MeloveGupta&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
@@ -135,15 +127,6 @@ melove = {
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Melove?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Stats"/>
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/MeloveGupta/chain-lens-bitcoin-transaction-visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeloveGupta&repo=chain-lens-bitcoin-transaction-visualizer&theme=github_dark&hide_border=true" alt="Project 1"/>
-  </a>
 
 ---
 
