@@ -32,7 +32,7 @@ melove = {
     "building":    "Something awesome 🚀",
     "learning":    ["Machine Learning", "Distributed Systems", "Cloud Architecture"],
     "reach_me":    "linkedin.com/in/melovegupta",
-    "fun_fact":    "I debug with console.log and I'm not ashamed 😅",
+    "fun_fact":    "I debug with console.log 😅",
 }
 ```
 
