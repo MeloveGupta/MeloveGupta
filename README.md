@@ -98,14 +98,6 @@ melove = {
 
 ---
 
-## 💡 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Melove?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
----
-
 ## 🎵 Currently Listening To
 
 <div align="center">
